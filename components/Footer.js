@@ -24,12 +24,12 @@ const Footer = () => {
         <p>Wumbo</p>
         <p>Presents</p>
         <p>The Airbnb Clone</p>
-        <p>Github Has</p>
+        <p>My Github Has</p>
         <p>More Projects</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
-        <h5 className="font-bold">Support</h5>
+        <h5 className="font-bold">SUPPORT</h5>
         <p>Help Center</p>
         <p>Trust & Safety</p>
         <p>Say Hi</p>
