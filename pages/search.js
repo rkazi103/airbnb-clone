@@ -50,6 +50,7 @@ const Search = ({ searchResults }) => {
                 lat,
               }) => (
                 <InfoCard
+                  key={img}
                   img={img}
                   location={location}
                   title={title}
